@@ -23,3 +23,19 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Include for '.well-known'
+# include: [".well-known"]
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - .git
+  - Gemfile
+  - Gemfile.lock
+  

@@ -38,6 +38,6 @@ exclude:
   - .git
   - Gemfile
   - Gemfile.lock
-  - tokens*
-  - *.asc
+  - "tokens*"
+  - "*.asc"
   

@@ -43,4 +43,4 @@ exclude:
   - LICENSE
   - "tokens*"
   - "*.asc"
-  
+  - "*.sh"

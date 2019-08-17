@@ -1,0 +1,38 @@
+<div id="decrypter">
+Secret: <input type="password" name="secret" id="secret">
+<input id="encrypt" type="button" value="encrypt" onclick="doEncrypt();" />
+<input id="decrypt" type="button" value="decrypt" onclick="doDecrypt();" />
+<script type="text/javascript" src="{{ site.baseurl }}/assets/jquery.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/aes.js"></script>
+<script type="text/javascript">
+    function doEncrypt() {
+        var secret = $('#secret').val();
+        var $pc = $($('.post-content')[0]);
+        var message = $pc.html();
+        var encrypted = CryptoJS.AES.encrypt(message, secret).toString();
+        var cagewidth = 90;
+        $pc.html('');
+        for(var i = 0; i < encrypted.length; i += cagewidth) {
+            if(i) $('<br>').appendTo($pc);
+            $code = $('<code>').appendTo($pc);
+            $code.html(encrypted.substr(i, cagewidth));
+        }
+        var clip = '';
+        $pc.find('code').each(function(){
+            clip += $(this)[0].outerHTML + '\n';
+        })
+        console.log(clip);
+    }
+    function doDecrypt() {
+        var secret = $('#secret').val();
+        var $pc = $($('.post-content')[0]);
+        var message = '';
+        $pc.find('code').each(function() {
+            message += $( this ).html();
+        });
+        var decrypted = CryptoJS.AES.decrypt(message, secret).toString(CryptoJS.enc.Utf8);
+        $pc.html(decrypted);
+    }
+</script>
+</div>
+</br>

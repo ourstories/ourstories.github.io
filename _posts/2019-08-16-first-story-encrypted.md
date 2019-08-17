@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Encrypt Jekyll Post with Javascript"
-categories: javascript
-# date: 2016-03-28 01:31 -0500
+categories: sotries
+date: 2019-08-16 21:33 -0500
 # commentIssueId: 2
 encrypted: true
 #hidden: true

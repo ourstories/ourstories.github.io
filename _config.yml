@@ -38,6 +38,9 @@ exclude:
   - .git
   - Gemfile
   - Gemfile.lock
+  - build.sh
+  - README.md
+  - LICENSE
   - "tokens*"
   - "*.asc"
   

@@ -19,6 +19,7 @@ source "https://rubygems.org"
 gem "bigdecimal", "~> 1.3.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
+# https://github.com/ourstories/minima master @ 1ca78e5 @ 2019-08-16T14:38:46Z
 gem "minima", "~> 2.0"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

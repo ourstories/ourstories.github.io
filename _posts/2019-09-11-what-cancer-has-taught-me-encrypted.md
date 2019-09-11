@@ -6,6 +6,8 @@ date: 2019-09-11 17:08 -0500
 # commentIssueId: 2
 encrypted: true
 #hidden: true
+redirect_from: 
+  - /2019/09/what-cancer-has-taught-me/
 ---
 
 

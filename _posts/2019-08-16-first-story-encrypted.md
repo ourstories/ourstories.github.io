@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Encrypt Jekyll Post with Javascript"
-categories: sotries
+categories: stories
 date: 2019-08-16 21:33 -0500
 # commentIssueId: 2
 encrypted: true
 #hidden: true
 ---
+
 <code>U2FsdGVkX19CqqWpBbsuX9vq5aju7Hhd2BixZxw8CfqpVlKdpXzaMpxLpu+1KXQbV9f04gyWmBZT+zTUcFFGsfIAgm</code>
 <code>bCfokjuAQmLYSNQEYtp78NIIdXdRJxybSnmP4ETuiF12pyJlvBmUGJumVOcjQ7BAQsXm9fXvdw49MTymkfbkUHDtTu</code>
 <code>ui+mpYgeL5z7GKIleDVQRgG34yvgsWhSjNsYLqkiLaQJH6RlQ5SmVx5zE/Emm5e3yxiJtYuaHOYuVaiL2k7+dYzgoO</code>

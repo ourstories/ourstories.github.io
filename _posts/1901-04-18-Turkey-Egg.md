@@ -44,10 +44,10 @@ briars out of his feet.
 1. [Thomas Briand](http://appalachianaristocracy.com/getperson.php?personID=I4397&tree=01) - of France (presumed)
 1. [Stephen Briand Sr](http://appalachianaristocracy.com/getperson.php?personID=I4395&tree=01) - Ex-Noble in Court near Versailles, Fled to Holland in [1685](https://en.wikipedia.org/wiki/Edict_of_Fontainebleau)
 1. [Stephen Briand Jr](http://appalachianaristocracy.com/getperson.php?personID=I4390&tree=01) - Fled Holland to England
-1. [Jacques Briand](http://appalachianaristocracy.com/getperson.php?personID=I4335&tree=01) (b. 1660) of France - Landed at Jamestown July 23, 1700
+1. [Jacques Briand](http://appalachianaristocracy.com/getperson.php?personID=I4335&tree=01) (b. 1660) French exile in England - Landed at Jamestown July 23, 1700
 1. [James Bryant Sr](http://appalachianaristocracy.com/getperson.php?personID=I3344&tree=01) (b. 1709) of Virginia (m. [Elizabeth Faure](https://www.huguenotmanakin.org/registered-lineages))
 2. [James Bryant Jr](http://appalachianaristocracy.com/getperson.php?personID=I5840&tree=01) (b. 1735) of Virginia (m. [Jane Guerrant](https://www.huguenotmanakin.org/registered-lineages))
-3. [John Bryant](http://appalachianaristocracy.com/getperson.php?personID=I32875&tree=01) (b. 1760) - Verteran of the Revolutionary War
+3. [John Bryant](http://appalachianaristocracy.com/getperson.php?personID=I32875&tree=01) (b. 1760) - Veteran of the Revolutionary War
 4. **[George S. Bryant](http://appalachianaristocracy.com/getperson.php?personID=I32879&tree=01)** (b. 1789) of Kentucky
 5. James M. Bryant (b. 1826) of Kentucky
 6. Thomas Edwin Bryant (b. 1853) of Missouri

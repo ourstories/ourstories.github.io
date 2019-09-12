@@ -9,8 +9,7 @@
 title: Our Family Stories
 # email: brianddk@users.noreply.github.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my first stab a Jekyll design.  This will change as
-  I get a bit better at it.  Look for new updates periodically.
+  Family stories from myself and family
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ourstories.github.io/" # the base hostname & protocol for your site
 twitter_username: dkbriand

@@ -40,8 +40,8 @@ briars out of his feet.
 
 ## Relation
 
-1. James Bryant Sr of England - Arrived in Virginia 1700
-2. James Bryant Jr of Virginia
+1. James Bryant Sr of England (m. [Elizabeth Faure](https://www.huguenotmanakin.org/registered-lineages)) - Arrived in Virginia 1700
+2. James Bryant Jr of Virginia (m. [Jane Guerrant](https://www.huguenotmanakin.org/registered-lineages))
 3. John Bryant (b. 1760) - Verteran of the Revolutionary War
 4. **George S. Bryant** (b. 1789)
 5. James M. Bryant (b. 1826)
@@ -49,3 +49,4 @@ briars out of his feet.
 7. Thomas Vaughn Bryant (b. 1888)
 9. Vaughn Motley Bryant (b. ~1910)
 
+John Bryant fought in the Revolutionary war.  Two of John's Uncles fought in the [Battle of Guilford Court House](https://en.wikipedia.org/wiki/Battle_of_Guilford_Court_House).  One (Thomas) died and the other (Isaac) was wounded.  Both John's Mother (Jane) and Grandmother (Elizabeth) were 3rd generation Huguenots.

@@ -42,7 +42,7 @@ briars out of his feet.
 
 1. [Isaac Briand](http://appalachianaristocracy.com/getperson.php?personID=I4398&tree=01) - of France (presumed)
 1. [Thomas Briand](http://appalachianaristocracy.com/getperson.php?personID=I4397&tree=01) - of France (presumed)
-1. [Stephen Briand Sr](http://appalachianaristocracy.com/getperson.php?personID=I4395&tree=01) - Minister in Court near Versailles, Fled to Holland
+1. [Stephen Briand Sr](http://appalachianaristocracy.com/getperson.php?personID=I4395&tree=01) - Minister in Court near Versailles, Fled to Holland in [1685](https://en.wikipedia.org/wiki/Edict_of_Fontainebleau)
 1. [Stephen Briand Jr](http://appalachianaristocracy.com/getperson.php?personID=I4390&tree=01) - Fled Holland to England in 1685
 1. [Jacques Briand](http://appalachianaristocracy.com/getperson.php?personID=I4335&tree=01) (b. 1660) of France - Landed at Jamestown July 23, 1700
 1. [James Bryant Sr](http://appalachianaristocracy.com/getperson.php?personID=I3344&tree=01) (b. 1709) of Virginia (m. [Elizabeth Faure](https://www.huguenotmanakin.org/registered-lineages))

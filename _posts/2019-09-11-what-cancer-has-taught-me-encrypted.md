@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Cancer has Taught Me!"
+title:  "White Bands"
 categories: stories
 date: 2019-09-11 17:08 -0500
 # commentIssueId: 2

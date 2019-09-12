@@ -47,6 +47,6 @@ briars out of his feet.
 5. James M. Bryant (b. 1826)
 6. Thomas Edwin Bryant (b. 1853)
 7. Thomas Vaughn Bryant (b. 1888)
-9. Vaughn Motley Bryant (b. ~1910)
+9. Vaughn Motley Bryant (b. 1916)
 
 John Bryant fought in the Revolutionary war.  Two of John's Uncles fought in the [Battle of Guilford Court House](https://en.wikipedia.org/wiki/Battle_of_Guilford_Court_House).  One (Thomas) died and the other (Isaac) was wounded.  Both John's Mother (Jane) and Grandmother (Elizabeth) were 3rd generation Huguenots.

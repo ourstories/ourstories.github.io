@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+If you are one of my nieces, nephews, cousins, uncles, aunts or siblings and have a story to add, just:
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+1. Email me
+1. Ping me on [twitter](https://www.twitter.com/dkbriand)
+2. Open a ["Story Request" issue on the repo](https://github.com/ourstories/ourstories.github.io/issues/new)
+3. Write a draft into the [Wiki](https://github.com/ourstories/ourstories.github.io/wiki)
+4. Or just bug Dad, Don, Mom or anyone else that knows how to reach me.

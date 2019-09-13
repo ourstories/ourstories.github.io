@@ -5,6 +5,7 @@ permalink: /todo/
 ---
 
 - [ ] Add [Don Bryant Story](http://www.peddlerspackgifts.com/introducing-don-bryant-friendly-kind-world-traveler-a-quiet-rebel/)
+- [ ] Add [Hank Johnson](https://web.archive.org/web/2/www.gustavushistory.org/) info
 - [x] Record family story of [George Bryant and The Turkey Egg](assets/Record-of-George-Smith-Bryant-and-Keziah-Arnold.pdf) ([mirror](https://archive.org/details/familyrecordofge00greg))
 - [ ] Transcribe Vaughn Bryant Sr audio recordings
 - [ ] *Angus Rat* Story

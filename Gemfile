@@ -10,6 +10,14 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # gem "jekyll", "~> 3.8.3" #github-pages does this for us
 #
+# Windows Users (As Admin)
+#
+#     choco install -y ruby
+#     refreshenv
+#     ridk install # install toolchain
+#     bundle install
+#     bundle update
+#
 # Remember to trim trailing slash on http_proxy environ
 #
 #     bundle install
